@@ -1,0 +1,15 @@
+services:
+
+    nginx
+
+    auth-service
+
+    api-service
+
+    file-service
+
+    legacy-admin
+
+    postgres
+
+    redis
